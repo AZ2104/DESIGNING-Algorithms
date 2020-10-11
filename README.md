@@ -1,2 +1,2 @@
-# DESIGNING-Algorithms
-Bounce off and collision! (ITS AWESOME!)
+# p5.play-boilerplate
+Boiler plate for p5.play
